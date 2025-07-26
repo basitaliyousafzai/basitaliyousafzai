@@ -24,9 +24,7 @@
 
 - 📫 Reach me at: <strong>basitaliyousafzai786@gmail.com</strong>
 
-- 📍 Location: <strong>Chor Chowk, Rawalpindi, Pakistan</strong>
-
-- 📱 Contact: <strong>+92 317 5446686</strong>
+- 📍 Location: <strong>Rawalpindi, Pakistan</strong>
 
 - ⚡ Fun fact: <strong>I thrive in environments where innovation meets problem-solving.</strong>
 
