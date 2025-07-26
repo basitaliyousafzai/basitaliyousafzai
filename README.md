@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Basit Ali</h1>
 <h3 align="center"><strong>Results-driven Software Engineer from Pakistan</strong></h3>
 
-<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <br>
 
