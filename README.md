@@ -59,7 +59,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaki2k2&" alt="streak-stats" /></p>
 
 <footer class="border-top footer text-muted">
-  <div class="container">
-    &copy; 2025 - Created By Basit Ali
+  <div class="container" style="font-size: 0.8em; color: #777;">
+    &copy; 2025 - Created By Syed Zaki Ahmad
   </div>
 </footer>
