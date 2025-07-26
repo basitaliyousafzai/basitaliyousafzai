@@ -60,7 +60,7 @@
 
 <footer class="border-top footer text-muted">
 <div class="container" style="font-size: 0.75em; color: #999;">
-  &copy; 2025 - Created By Syed Zaki Ahmad
+  &copy; 2025 - Created By Basit Ali
 </div>
 
 </footer>
