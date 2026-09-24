@@ -45,6 +45,81 @@ I build scalable applications, dashboards, secure role-based systems, and practi
 | **Databases** | SQL Server, MySQL, PostgreSQL, MongoDB |
 | **Engineering focus** | Secure role-based systems, dashboards, REST APIs, reporting, maintainable architecture |
 
+## Professional projects
+
+Verified from my [LinkedIn profile](https://www.linkedin.com/in/basit-ali-yousafzai/). The projects below highlight my work with **Multi-Tech Solutions** and selected academic work.
+
+<details>
+<summary><strong>Hajj Organizers Association of Pakistan</strong> · Full-Stack .NET Developer · Oct 2024 – Present</summary>
+<br>
+Built high-performance ASP.NET applications using Entity Framework and SQL Server, with frontend development for a seamless user experience. Work included core-module UI and business logic, optimized databases with indexing and relationships, EF/EF Core models and migrations, LINQ queries and stored procedures, .NET MVC/.NET Core APIs, security and performance improvements, and usability-focused UI enhancements.
+
+**Stack:** ASP.NET MVC · Entity Framework · SQL Server
+**Website:** [hoap.org.pk](https://www.hoap.org.pk)
+</details>
+
+<details>
+<summary><strong>ButtKarahi</strong> · Full-Stack Developer · Multi-Tech Solutions</summary>
+<br>
+Developed an admin panel for ButtKarahi.net so restaurant staff could manage orders, update the menu, and track customer details. The workflow-focused panel improved navigation, reduced manual errors, and streamlined order management.
+
+**Stack:** ASP.NET MVC · C# · SQL Server
+**Website:** [bk.mtsapp.net](https://bk.mtsapp.net)
+</details>
+
+<details>
+<summary><strong>Dwatson.co</strong> · Full-Stack Developer · Multi-Tech Solutions</summary>
+<br>
+Contributed to an e-commerce platform for product listings, customer interactions, and online sales. Worked on ASP.NET MVC development and frontend/backend integration to improve product management and user experience.
+
+**Stack:** ASP.NET MVC · C# · SQL Server
+**Website:** [Dwatson.co](https://dwatson.co)
+</details>
+
+<details>
+<summary><strong>HBWH.Dwatson.co</strong> · Backend Developer · Multi-Tech Solutions</summary>
+<br>
+Worked on a warehouse management system for inventory tracking, order management, and staff control. The system provided real-time stock and order updates, reduced errors, and improved order-fulfillment speed.
+
+**Stack:** ASP.NET Core · SQL Server · JavaScript
+**Website:** [hbwh.dwatson.co](https://hbwh.dwatson.co/)
+</details>
+
+<details>
+<summary><strong>Margalla Packages Industry</strong> · Full-Stack Developer · Multi-Tech Solutions</summary>
+<br>
+Developed a responsive professional website with product listings, contact forms, and company information, improving the company’s digital presence and access to product details.
+
+**Stack:** ASP.NET MVC · HTML · CSS · SQL Server
+**Website:** [margallapackagesindustry.com](https://www.margallapackagesindustry.com)
+</details>
+
+<details>
+<summary><strong>Nadeem Plastic</strong> · Full-Stack Developer · Multi-Tech Solutions</summary>
+<br>
+Built a responsive business website with an interactive product catalog, service details, and company background for desktop and mobile users.
+
+**Stack:** ASP.NET MVC · C# · SQL Server
+**Website:** [nadeemplastic.com](https://nadeemplastic.com/)
+</details>
+
+<details>
+<summary><strong>Nadir Brothers</strong> · Web Developer · Multi-Tech Solutions</summary>
+<br>
+Designed and developed a responsive corporate website covering the product catalog, company profile, and contact details to strengthen online visibility and lead generation.
+
+**Stack:** HTML · CSS · JavaScript · ASP.NET MVC
+**Website:** [nadirbrothers.com](https://nadirbrothers.com/)
+</details>
+
+<details>
+<summary><strong>School Management</strong> · MERN Stack · Apr 2024 – Aug 2024</summary>
+<br>
+Built a school-management website for Pindi Foundation using the MERN stack as an academic project.
+
+**Stack:** MongoDB · React.js · MERN
+</details>
+
 ## Selected work
 
 | Project | What it is | Links |
