@@ -69,6 +69,7 @@ I build scalable applications, dashboards, secure role-based systems, and practi
 
 [![Email](https://img.shields.io/badge/Email-basitaliyousafzai786%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basitaliyousafzai786@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@basitaliyousafzai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basitaliyousafzai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Basit%20Ali%20Yousafzai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basit-ali-yousafzai/)
 
 > I enjoy turning complex requirements into reliable, maintainable software.
 
