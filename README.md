@@ -1,22 +1,25 @@
 <div align="center">
 
-<!-- Hero Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:38bdf8&height=230&section=header&text=Basit%20Ali&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Basit Ali Banner" />
-
-<!-- Dynamic Animated Typing Line -->
-<a href="https://github.com/basitaliyousafzai">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Full-Stack+Engineer+specializing+in+.NET+%26+Angular;Building+Scalable+Enterprise+ERPs+and+Cloud+APIs;Designing+High-Throughput+SQL+Databases+%26+Clean+Architecture;Crafting+Fast%2C+Reliable+%26+User-Centric+Solutions" alt="Typing SVG" />
-</a>
+# 👨‍💻 Basit Ali Yousafzai
+### 🚀 Full-Stack Software Engineer · .NET & Angular Specialist
+**Rawalpindi, Pakistan 🇵🇰**
 
 <br/>
 
-<!-- Status & Experience Badges -->
+<!-- Dynamic Animated Typing Banner -->
+<a href="https://github.com/basitaliyousafzai">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer+specializing+in+.NET+%26+Angular;Building+Scalable+Enterprise+ERPs+and+Cloud+APIs;Designing+High-Throughput+SQL+Databases+%26+Clean+Architecture;Crafting+Fast%2C+Reliable+%26+User-Centric+Solutions" alt="Typing SVG Animation" />
+</a>
+
+<br/>
+<br/>
+
+<!-- Status & Verification Badges -->
 <p align="center">
   <a href="https://github.com/basitaliyousafzai"><img src="https://komarev.com/ghpvc/?username=basitaliyousafzai&label=Profile%20Views&color=0284c7&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" /></a>
   <a href="https://github.com/basitaliyousafzai?tab=followers"><img src="https://img.shields.io/github/followers/basitaliyousafzai?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="Followers" /></a>
   <a href="https://www.linkedin.com/in/basit-ali-yousafzai/"><img src="https://img.shields.io/badge/Status-Open%20To%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" /></a>
   <a href="https://www.linkedin.com/in/basit-ali-yousafzai/"><img src="https://img.shields.io/badge/Experience-2%2B%20Years-8b5cf6?style=for-the-badge&logo=timeline&logoColor=white" alt="Experience" /></a>
-  <a href="https://www.linkedin.com/in/basit-ali-yousafzai/"><img src="https://img.shields.io/badge/Location-Rawalpindi%2C%20Pakistan-ef4444?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" /></a>
 </p>
 
 <!-- Quick Navigation Bar -->
@@ -192,7 +195,7 @@ Explore my public codebase, application templates, and open-source projects:
 
 <div align="center">
 
-<!-- Real-time Streak Stats (Tested & 100% Reliable) -->
+<!-- Real-time Streak Stats -->
 <a href="https://github.com/basitaliyousafzai">
   <img src="https://streak-stats.demolab.com?user=basitaliyousafzai&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Contribution Streak" />
 </a>
@@ -217,10 +220,5 @@ I am always interested in discussing new opportunities, enterprise consulting, a
 <br/>
 
 > *"Software engineering is not just about writing code; it's about engineering resilient solutions that empower organizations and people."*
-
-<br/>
-
-<!-- Footer Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,35:2563eb,75:1e3a8a,100:0b0f19&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
