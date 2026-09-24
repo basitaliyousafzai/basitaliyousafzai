@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,25:1e3a8a,65:2563eb,100:0284c7&height=230&section=header&text=Basit%20Ali&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20.NET%20%26%20Angular&descAlignY=59&descSize=19&animation=fadeIn" width="100%" alt="Basit Ali Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:38bdf8&height=230&section=header&text=Basit%20Ali&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Basit Ali Banner" />
 
 <!-- Dynamic Animated Typing Line -->
 <a href="https://github.com/basitaliyousafzai">
