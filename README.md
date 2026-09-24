@@ -39,29 +39,24 @@ I build scalable applications, dashboards, secure role-based systems, and practi
 
 ## Selected work
 
-<div align="center">
+| Project | What it is | Links |
+| --- | --- | --- |
+| **BussinessAutomationSuite** | Business automation project | [Repository](https://github.com/basitaliyousafzai/BussinessAutomationSuite) |
+| **Twinfinity** | Full-stack application project | [Repository](https://github.com/basitaliyousafzai/Twinfinity) |
+| **clinicos-saas** | Clinic-focused SaaS project | [Repository](https://github.com/basitaliyousafzai/clinicos-saas) |
+| **dr-zeryab-clinic** | Clinic website with appointment booking, services, testimonials, and patient-record management | [Repository](https://github.com/basitaliyousafzai/dr-zeryab-clinic) |
+| **EcommerceWebsite** | ASP.NET MVC e-commerce store | [Repository](https://github.com/basitaliyousafzai/EcommerceWebsite) |
+| **Protfolio** | Personal portfolio website | [Repository](https://github.com/basitaliyousafzai/Protfolio) · [Live website](https://basitali-one.vercel.app) |
+| **TaskSharingPortal** | Collaboration and task-sharing project | [Repository](https://github.com/basitaliyousafzai/TaskSharingPortal) |
+| **ProManagementSystem** | Management-system project | [Repository](https://github.com/basitaliyousafzai/ProManagementSystem) |
 
-<a href="https://github.com/basitaliyousafzai/BussinessAutomationSuite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=basitaliyousafzai&repo=BussinessAutomationSuite&theme=tokyonight&hide_border=true" alt="BussinessAutomationSuite"></a>
-<a href="https://github.com/basitaliyousafzai/Twinfinity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=basitaliyousafzai&repo=Twinfinity&theme=tokyonight&hide_border=true" alt="Twinfinity"></a>
-<a href="https://github.com/basitaliyousafzai/clinicos-saas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=basitaliyousafzai&repo=clinicos-saas&theme=tokyonight&hide_border=true" alt="clinicos-saas"></a>
-<a href="https://github.com/basitaliyousafzai/Dental"><img src="https://github-readme-stats.vercel.app/api/pin/?username=basitaliyousafzai&repo=Dental&theme=tokyonight&hide_border=true" alt="Dental"></a>
+## GitHub profile snapshot
 
-</div>
+![Basit Ali GitHub profile summary](./assets/github-summary.svg)
 
-## GitHub analytics
+The live contribution calendar on GitHub is the most reliable source for activity because third-party activity-graph services can become unavailable. My current streak panel is shown below when the service is reachable:
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=basitaliyousafzai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="Basit Ali's GitHub statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitaliyousafzai&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Basit Ali's most used languages">
-
-<img src="https://streak-stats.demolab.com?user=basitaliyousafzai&theme=tokyonight&hide_border=true" alt="Basit Ali's GitHub contribution streak">
-
-</div>
-
-## Contribution activity
-
-![Basit Ali's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=basitaliyousafzai&theme=tokyo-night&hide_border=true&area=true)
+![GitHub contribution streak](https://streak-stats.demolab.com?user=basitaliyousafzai&theme=tokyonight&hide_border=true)
 
 ## Let’s connect
 
