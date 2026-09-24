@@ -8,6 +8,14 @@
 
 I build scalable applications, dashboards, secure role-based systems, and practical backend APIs. My current focus is the .NET and Angular ecosystem, with a strong interest in clean architecture, maintainable code, and thoughtful user experiences.
 
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+clean+and+reliable+software;Turning+ideas+into+useful+products;Always+learning%2C+always+improving)](https://git.io/typing-svg)
+
+</p>
+
+![Animated divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header)
+
 [![GitHub followers](https://img.shields.io/github/followers/basitaliyousafzai?label=Followers&style=for-the-badge&color=2563eb)](https://github.com/basitaliyousafzai)
 [![Repositories](https://img.shields.io/badge/Repositories-14-0f766e?style=for-the-badge)](https://github.com/basitaliyousafzai?tab=repositories)
 [![Profile views](https://komarev.com/ghpvc/?username=basitaliyousafzai&style=for-the-badge&color=7c3aed)](https://github.com/basitaliyousafzai)
