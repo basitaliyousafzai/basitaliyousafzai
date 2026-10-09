@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="188" viewBox="0 0 560 188" role="img" aria-label="Most used languages">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0f172a"/><stop offset="100%" stop-color="#172554"/></linearGradient>
+    <clipPath id="bar"><rect x="30" y="70" width="500" height="12" rx="6"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .seg  { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: grow .9s cubic-bezier(.2,.8,.2,1) forwards; }
+    .item { opacity: 0; animation: fade .6s ease-out forwards; }
+    @keyframes grow { to { transform: scaleX(1); } }
+    @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
+  <rect x="1" y="1" width="558" height="186" rx="18" fill="url(#bg)" stroke="#38bdf8" stroke-opacity=".2"/>
+  <text x="30" y="44" fill="#7dd3fc" font-size="17" font-weight="700">Most Used Languages</text>
+  <text x="530" y="44" fill="#64748b" font-size="12" text-anchor="end">by repository</text>
+  <g clip-path="url(#bar)">
+    <rect x="30" y="70" width="500" height="12" fill="#1e293b"/>
+    <rect class="seg" style="animation-delay:0.00s" x="30.0" y="70" width="250.0" height="12" fill="#F7DF1E"/>
+    <rect class="seg" style="animation-delay:0.12s" x="280.0" y="70" width="150.0" height="12" fill="#E34F26"/>
+    <rect class="seg" style="animation-delay:0.24s" x="430.0" y="70" width="50.0" height="12" fill="#239120"/>
+    <rect class="seg" style="animation-delay:0.36s" x="480.0" y="70" width="50.0" height="12" fill="#777BB4"/>
+  </g>
+    <g transform="translate(30,118)"><g class="item" style="animation-delay:0.40s">
+      <circle cx="6" cy="-4" r="6" fill="#F7DF1E"/>
+      <text x="20" y="0" fill="#e2e8f0" font-size="14">JavaScript</text>
+      <text x="220" y="0" fill="#94a3b8" font-size="13" text-anchor="end">50.0%</text>
+    </g></g>
+    <g transform="translate(290,118)"><g class="item" style="animation-delay:0.50s">
+      <circle cx="6" cy="-4" r="6" fill="#E34F26"/>
+      <text x="20" y="0" fill="#e2e8f0" font-size="14">HTML</text>
+      <text x="220" y="0" fill="#94a3b8" font-size="13" text-anchor="end">30.0%</text>
+    </g></g>
+    <g transform="translate(30,148)"><g class="item" style="animation-delay:0.60s">
+      <circle cx="6" cy="-4" r="6" fill="#239120"/>
+      <text x="20" y="0" fill="#e2e8f0" font-size="14">C#</text>
+      <text x="220" y="0" fill="#94a3b8" font-size="13" text-anchor="end">10.0%</text>
+    </g></g>
+    <g transform="translate(290,148)"><g class="item" style="animation-delay:0.70s">
+      <circle cx="6" cy="-4" r="6" fill="#777BB4"/>
+      <text x="20" y="0" fill="#e2e8f0" font-size="14">PHP</text>
+      <text x="220" y="0" fill="#94a3b8" font-size="13" text-anchor="end">10.0%</text>
+    </g></g>
+</svg>

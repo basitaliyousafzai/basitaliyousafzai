@@ -1,0 +1,32 @@
+{
+  "$comment": "Controls the auto-generated 'Open-Source Projects' section. New public repos appear automatically — this file is only for fine-tuning.",
+  "username": "basitaliyousafzai",
+  "maxProjects": 12,
+  "includeForks": false,
+  "includeArchived": false,
+  "exclude": ["basitaliyousafzai"],
+  "pinned": ["EcommerceWebsite", "OmniDownloader", "clinicos-saas", "Protfolio"],
+  "overrides": {
+    "EcommerceWebsite": {
+      "emoji": "🛒",
+      "title": "E-Commerce Website",
+      "description": "Complete ASP.NET MVC e-commerce platform with product catalogs, shopping cart and order pipeline."
+    },
+    "clinicsync": {
+      "emoji": "🏥",
+      "title": "ClinicSync",
+      "description": "Clinic management system for patient records, appointments and doctor scheduling."
+    },
+    "ProManagementSystem": {
+      "emoji": "📋",
+      "title": "Pro Management System",
+      "description": "Multi-role organization and workflow management system with dashboards."
+    },
+    "Protfolio": {
+      "emoji": "🌐",
+      "title": "Portfolio Website",
+      "description": "Modern interactive personal portfolio showcasing projects, experience and skills.",
+      "homepage": "https://basitali-one.vercel.app"
+    }
+  }
+}
