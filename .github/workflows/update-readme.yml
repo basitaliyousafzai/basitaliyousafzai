@@ -2,8 +2,10 @@ name: 🔄 Auto-Update Profile README
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
-  workflow_dispatch: # manual "Run workflow" button
+    - cron: "0 * * * *" # Runs every hour to automatically sync newly added or deleted repositories
+  workflow_dispatch: # Allows manual 1-click execution from GitHub Actions UI
+  repository_dispatch: # Allows webhook triggers when repositories are created or deleted
+    types: [repo_sync, repository_changed]
   push:
     branches: [main]
     paths:

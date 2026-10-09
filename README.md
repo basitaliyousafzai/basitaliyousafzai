@@ -308,88 +308,77 @@ public sealed record EngineerProfile : SoftwareEngineer
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🛒 <a href="https://github.com/basitaliyousafzai/EcommerceWebsite">E-Commerce Website</a></h3>
-<p>Complete ASP.NET MVC e-commerce platform with product catalogs, shopping cart and order pipeline.</p>
-<p><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Forks-1-8b5cf6?style=flat-square&logo=git&logoColor=white" alt="Forks" /> <img src="https://img.shields.io/badge/Updated-Jul%202025-0ea5e9?style=flat-square" alt="Last updated" /></p>
-<a href="https://github.com/basitaliyousafzai/EcommerceWebsite"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
+<h3>📊 <a href="https://github.com/basitaliyousafzai/ChartOfAccount">Chart Of Account &amp; General Ledger ERP</a></h3>
+<p>Autonomous Chart of Accounts &amp; General Ledger ERP engine with offline Electron desktop, integer-cent double-entry bookkeeping, and zero-tolerance balance verification.</p>
+<p><code>erp</code> <code>accounting</code> <code>double-entry</code> <code>electron</code> <code>desktop</code></p>
+<p><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-0-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Oct%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
+<a href="https://github.com/basitaliyousafzai/ChartOfAccount"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
 </td>
 <td width="50%" valign="top">
-<h3>📥 <a href="https://github.com/basitaliyousafzai/OmniDownloader">Omni Downloader</a></h3>
-<p>Omni Downloader — a JavaScript project by Basit Ali.</p>
-<p><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Oct%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
-<a href="https://github.com/basitaliyousafzai/OmniDownloader"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
+<h3>🛒 <a href="https://github.com/basitaliyousafzai/EcommerceWebsite">E-Commerce Web Platform</a></h3>
+<p>Full-featured ASP.NET MVC e-commerce platform with dynamic product catalogs, cart pipeline, user authentication, and SQL Server persistence.</p>
+<p><code>csharp</code> <code>dotnet</code> <code>aspnet-mvc</code> <code>ecommerce</code> <code>sql-server</code></p>
+<p><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Forks-1-8b5cf6?style=flat-square&logo=git&logoColor=white" alt="Forks" /> <img src="https://img.shields.io/badge/Updated-Jul%202025-0ea5e9?style=flat-square" alt="Last updated" /></p>
+<a href="https://github.com/basitaliyousafzai/EcommerceWebsite"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🏥 <a href="https://github.com/basitaliyousafzai/clinicos-saas">Clinicos Saas</a></h3>
-<p>Clinicos Saas — a software project by Basit Ali.</p>
-<p><img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Mar%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
-<a href="https://github.com/basitaliyousafzai/clinicos-saas"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
+<h3>📥 <a href="https://github.com/basitaliyousafzai/OmniDownloader">Omni Downloader</a></h3>
+<p>High-speed multi-resource downloader utility designed for stream handling, batch jobs, and effortless media downloads.</p>
+<p><code>javascript</code> <code>downloader</code> <code>utilities</code> <code>automation</code></p>
+<p><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Oct%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
+<a href="https://github.com/basitaliyousafzai/OmniDownloader"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
 </td>
 <td width="50%" valign="top">
-<h3>🌐 <a href="https://github.com/basitaliyousafzai/Protfolio">Portfolio Website</a></h3>
-<p>Modern interactive personal portfolio showcasing projects, experience and skills.</p>
+<h3>🌐 <a href="https://github.com/basitaliyousafzai/Protfolio">Portfolio Web Application</a></h3>
+<p>Interactive developer portfolio web app showcasing full-stack enterprise projects, skill stack, and commercial solutions.</p>
+<p><code>portfolio</code> <code>javascript</code> <code>html5</code> <code>css3</code> <code>vercel</code></p>
 <p><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Forks-1-8b5cf6?style=flat-square&logo=git&logoColor=white" alt="Forks" /> <img src="https://img.shields.io/badge/Updated-Sep%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
 <a href="https://github.com/basitaliyousafzai/Protfolio"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a> <a href="https://basitali-one.vercel.app"><img src="https://img.shields.io/badge/-Live%20Demo-22c55e?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>💠 <a href="https://github.com/basitaliyousafzai/ChartOfAccount">Chart Of Account</a></h3>
-<p>Autonomous Chart of Accounts &amp; General Ledger ERP engine - offline Electron desktop, integer-cent double entry, zero-tolerance balance</p>
-<p><code>accounting</code> <code>chart-of-accounts</code> <code>double-entry-bookkeeping</code> <code>electron</code> <code>erp</code></p>
-<p><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-0-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Oct%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
-<a href="https://github.com/basitaliyousafzai/ChartOfAccount"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
-</td>
-<td width="50%" valign="top">
-<h3>🤖 <a href="https://github.com/basitaliyousafzai/Twinfinity">Twinfinity</a></h3>
-<p>Twinfinity — a JavaScript project by Basit Ali.</p>
-<p><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Jul%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
-<a href="https://github.com/basitaliyousafzai/Twinfinity"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🦷 <a href="https://github.com/basitaliyousafzai/Dental">Dental</a></h3>
-<p>Dental — a JavaScript project by Basit Ali.</p>
+<h3>🦷 <a href="https://github.com/basitaliyousafzai/Dental">Dental Clinic Portal</a></h3>
+<p>Healthcare dental practice management portal for patient appointments, treatment tracking, and dentist schedules.</p>
+<p><code>healthcare</code> <code>dental-portal</code> <code>javascript</code> <code>clinic-system</code></p>
 <p><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Jul%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
 <a href="https://github.com/basitaliyousafzai/Dental"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
 </td>
 <td width="50%" valign="top">
-<h3>📋 <a href="https://github.com/basitaliyousafzai/TaskSharingPortal">Task Sharing Portal</a></h3>
-<p>Task Sharing Portal — a software project by Basit Ali.</p>
-<p><img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Forks-1-8b5cf6?style=flat-square&logo=git&logoColor=white" alt="Forks" /> <img src="https://img.shields.io/badge/Updated-Jul%202025-0ea5e9?style=flat-square" alt="Last updated" /></p>
-<a href="https://github.com/basitaliyousafzai/TaskSharingPortal"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🤝 <a href="https://github.com/basitaliyousafzai/online-community-portal-for-collaborations">Online Community Portal For Collaborations</a></h3>
-<p>Online Community Portal For Collaborations — a software project by Basit Ali.</p>
-<p><img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Jul%202025-0ea5e9?style=flat-square" alt="Last updated" /></p>
-<a href="https://github.com/basitaliyousafzai/online-community-portal-for-collaborations"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
-</td>
-<td width="50%" valign="top">
-<h3>🌐 <a href="https://github.com/basitaliyousafzai/Portfolio">Portfolio</a></h3>
-<p>Portfolio — a JavaScript project by Basit Ali.</p>
+<h3>💻 <a href="https://github.com/basitaliyousafzai/Portfolio">Developer Showcase Portfolio</a></h3>
+<p>Responsive personal engineering showcase exhibiting software engineering capabilities, frontend components, and UI layouts.</p>
+<p><code>javascript</code> <code>portfolio</code> <code>frontend</code> <code>responsive-web</code></p>
 <p><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Jul%202025-0ea5e9?style=flat-square" alt="Last updated" /></p>
 <a href="https://github.com/basitaliyousafzai/Portfolio"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🏥 <a href="https://github.com/basitaliyousafzai/clinicsync">ClinicSync</a></h3>
-<p>Clinic management system for patient records, appointments and doctor scheduling.</p>
+<h3>🏥 <a href="https://github.com/basitaliyousafzai/clinicsync">ClinicSync Management Suite</a></h3>
+<p>Comprehensive clinic management system managing patient health records, appointment bookings, and physician schedules.</p>
+<p><code>php</code> <code>clinic-management</code> <code>ehr</code> <code>healthcare</code> <code>appointments</code></p>
 <p><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Forks-1-8b5cf6?style=flat-square&logo=git&logoColor=white" alt="Forks" /> <img src="https://img.shields.io/badge/Updated-Jul%202025-0ea5e9?style=flat-square" alt="Last updated" /></p>
 <a href="https://github.com/basitaliyousafzai/clinicsync"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
 </td>
 <td width="50%" valign="top">
 <h3>📋 <a href="https://github.com/basitaliyousafzai/ProManagementSystem">Pro Management System</a></h3>
-<p>Multi-role organization and workflow management system with dashboards.</p>
+<p>Enterprise multi-role organization and workflow management portal featuring administrative dashboards and team coordination.</p>
+<p><code>csharp</code> <code>sql-server</code> <code>management-system</code> <code>rbac</code> <code>dashboard</code></p>
 <p><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Jul%202025-0ea5e9?style=flat-square" alt="Last updated" /></p>
 <a href="https://github.com/basitaliyousafzai/ProManagementSystem"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>✨ <a href="https://github.com/basitaliyousafzai/BasitAliPortfolio">Basit Ali Portfolio Site</a></h3>
+<p>Personal branding and web portfolio highlighting full-stack .NET and Angular engineering competencies.</p>
+<p><code>portfolio</code> <code>html5</code> <code>css3</code> <code>software-engineer</code></p>
+<p><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Jul%202025-0ea5e9?style=flat-square" alt="Last updated" /></p>
+<a href="https://github.com/basitaliyousafzai/BasitAliPortfolio"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 <!-- PROJECTS:END -->

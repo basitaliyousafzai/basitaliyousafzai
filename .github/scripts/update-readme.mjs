@@ -107,11 +107,15 @@ function renderCard(repo, override = {}) {
   const emoji = override.emoji ?? pickEmoji(repo);
   const title = override.title ?? humanize(repo.name);
   const description =
-    override.description ??
-    repo.description ??
-    `${humanize(repo.name)} — ${lang ? `a ${lang} project` : 'a software project'} by Basit Ali.`;
-  const homepage = override.homepage ?? repo.homepage;
-  const topics = (repo.topics ?? []).slice(0, 5);
+    override.description ||
+    (repo.description && repo.description.trim()) ||
+    `${humanize(repo.name)} — ${lang ? `a high-performance ${lang} application` : 'a full-stack software system'} engineered by Basit Ali.`;
+  const homepage = override.homepage || (repo.homepage && repo.homepage.trim()) || null;
+  const topics = (
+    (override.topics && override.topics.length ? override.topics : null) ||
+    (repo.topics && repo.topics.length ? repo.topics : null) ||
+    []
+  ).slice(0, 5);
 
   const badges = [
     lang && `<img src="${badge('', lang, meta.color, meta.logo, meta.logoColor)}" alt="${esc(lang)}" />`,

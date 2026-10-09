@@ -1,32 +1,66 @@
 {
-  "$comment": "Controls the auto-generated 'Open-Source Projects' section. New public repos appear automatically — this file is only for fine-tuning.",
+  "$comment": "Configuration for the auto-generated Open-Source Projects grid in README.md. Deleted repos vanish automatically; newly added public repos appear automatically on next sync.",
   "username": "basitaliyousafzai",
   "maxProjects": 12,
   "includeForks": false,
   "includeArchived": false,
   "exclude": ["basitaliyousafzai"],
-  "pinned": ["EcommerceWebsite", "OmniDownloader", "clinicos-saas", "Protfolio"],
+  "pinned": ["ChartOfAccount", "EcommerceWebsite", "OmniDownloader", "Protfolio"],
   "overrides": {
+    "ChartOfAccount": {
+      "emoji": "📊",
+      "title": "Chart Of Account & General Ledger ERP",
+      "description": "Autonomous Chart of Accounts & General Ledger ERP engine with offline Electron desktop, integer-cent double-entry bookkeeping, and zero-tolerance balance verification.",
+      "topics": ["erp", "accounting", "double-entry", "electron", "desktop"]
+    },
     "EcommerceWebsite": {
       "emoji": "🛒",
-      "title": "E-Commerce Website",
-      "description": "Complete ASP.NET MVC e-commerce platform with product catalogs, shopping cart and order pipeline."
+      "title": "E-Commerce Web Platform",
+      "description": "Full-featured ASP.NET MVC e-commerce platform with dynamic product catalogs, cart pipeline, user authentication, and SQL Server persistence.",
+      "topics": ["csharp", "dotnet", "aspnet-mvc", "ecommerce", "sql-server"]
+    },
+    "OmniDownloader": {
+      "emoji": "📥",
+      "title": "Omni Downloader",
+      "description": "High-speed multi-resource downloader utility designed for stream handling, batch jobs, and effortless media downloads.",
+      "topics": ["javascript", "downloader", "utilities", "automation"]
+    },
+    "Protfolio": {
+      "emoji": "🌐",
+      "title": "Portfolio Web Application",
+      "description": "Interactive developer portfolio web app showcasing full-stack enterprise projects, skill stack, and commercial solutions.",
+      "homepage": "https://basitali-one.vercel.app",
+      "topics": ["portfolio", "javascript", "html5", "css3", "vercel"]
+    },
+    "Dental": {
+      "emoji": "🦷",
+      "title": "Dental Clinic Portal",
+      "description": "Healthcare dental practice management portal for patient appointments, treatment tracking, and dentist schedules.",
+      "topics": ["healthcare", "dental-portal", "javascript", "clinic-system"]
     },
     "clinicsync": {
       "emoji": "🏥",
-      "title": "ClinicSync",
-      "description": "Clinic management system for patient records, appointments and doctor scheduling."
+      "title": "ClinicSync Management Suite",
+      "description": "Comprehensive clinic management system managing patient health records, appointment bookings, and physician schedules.",
+      "topics": ["php", "clinic-management", "ehr", "healthcare", "appointments"]
     },
     "ProManagementSystem": {
       "emoji": "📋",
       "title": "Pro Management System",
-      "description": "Multi-role organization and workflow management system with dashboards."
+      "description": "Enterprise multi-role organization and workflow management portal featuring administrative dashboards and team coordination.",
+      "topics": ["csharp", "sql-server", "management-system", "rbac", "dashboard"]
     },
-    "Protfolio": {
-      "emoji": "🌐",
-      "title": "Portfolio Website",
-      "description": "Modern interactive personal portfolio showcasing projects, experience and skills.",
-      "homepage": "https://basitali-one.vercel.app"
+    "Portfolio": {
+      "emoji": "💻",
+      "title": "Developer Showcase Portfolio",
+      "description": "Responsive personal engineering showcase exhibiting software engineering capabilities, frontend components, and UI layouts.",
+      "topics": ["javascript", "portfolio", "frontend", "responsive-web"]
+    },
+    "BasitAliPortfolio": {
+      "emoji": "✨",
+      "title": "Basit Ali Portfolio Site",
+      "description": "Personal branding and web portfolio highlighting full-stack .NET and Angular engineering competencies.",
+      "topics": ["portfolio", "html5", "css3", "software-engineer"]
     }
   }
 }
