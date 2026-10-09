@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 48" width="900" height="48" role="img" aria-label="Terminal typing animation">
+  <defs>
+    <linearGradient id="termGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes blink {
+      0%, 45% { opacity: 1; }
+      50%, 95% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    @keyframes lineCycle1 {
+      0%, 28% { opacity: 1; transform: translateY(0); }
+      32%, 100% { opacity: 0; transform: translateY(-8px); }
+    }
+    @keyframes lineCycle2 {
+      0%, 31% { opacity: 0; transform: translateY(8px); }
+      35%, 62% { opacity: 1; transform: translateY(0); }
+      66%, 100% { opacity: 0; transform: translateY(-8px); }
+    }
+    @keyframes lineCycle3 {
+      0%, 65% { opacity: 0; transform: translateY(8px); }
+      69%, 95% { opacity: 1; transform: translateY(0); }
+      99%, 100% { opacity: 0; transform: translateY(-8px); }
+    }
+
+    .c-font {
+      font-family: 'Fira Code', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace;
+    }
+    .cur { animation: blink 0.8s infinite; }
+    .l1 { animation: lineCycle1 12s infinite; }
+    .l2 { animation: lineCycle2 12s infinite; }
+    .l3 { animation: lineCycle3 12s infinite; }
+  </style>
+
+  <rect width="900" height="48" rx="12" fill="#0f172a" fill-opacity="0.85" stroke="#38bdf8" stroke-opacity="0.25" stroke-width="1"/>
+  
+  <g transform="translate(20, 29)">
+    <text fill="#38bdf8" class="c-font" font-size="16" font-weight="700">❯</text>
+    <text x="20" fill="#a78bfa" class="c-font" font-size="15" font-weight="600">engineer</text>
+    <text x="100" fill="#64748b" class="c-font" font-size="15">::</text>
+
+    <g transform="translate(125, 0)">
+      <g class="l1">
+        <text fill="#f1f5f9" class="c-font" font-size="15" font-weight="500">
+          Full-Stack .NET &amp; Angular Architect · Building Scalable Enterprise Systems
+        </text>
+      </g>
+      <g class="l2">
+        <text fill="#38bdf8" class="c-font" font-size="15" font-weight="500">
+          Designing High-Throughput SQL Databases, Warehousing (WMS) &amp; POS Platforms
+        </text>
+      </g>
+      <g class="l3">
+        <text fill="#c084fc" class="c-font" font-size="15" font-weight="500">
+          Crafting Clean Architecture, Microservices &amp; User-Centric Digital Solutions
+        </text>
+      </g>
+    </g>
+
+    <!-- Blinking Cursor -->
+    <rect class="cur" x="825" y="-13" width="8" height="17" rx="1" fill="#38bdf8"/>
+  </g>
+</svg>

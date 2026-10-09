@@ -1,29 +1,31 @@
-<!-- ═══════════════════════════════════════ HERO ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════ HERO BANNER ═══════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1d4ed8,75:0ea5e9,100:a78bfa&height=250&section=header&text=Basit%20Ali&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20.NET%20%26%20Angular&descAlignY=58&descSize=19&animation=fadeIn" width="100%" alt="Basit Ali — Full-Stack Software Engineer" />
-
 <a href="https://github.com/basitaliyousafzai">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=45&lines=%F0%9F%9A%80+Full-Stack+Engineer+%E2%80%94+.NET+%26+Angular;%F0%9F%8F%A2+Building+Enterprise+ERPs%2C+WMS+%26+POS+Systems;%F0%9F%97%84%EF%B8%8F+High-Throughput+SQL+Server+%26+Clean+Architecture;%E2%9A%A1+Fast%2C+Reliable+%26+User-Centric+Software" alt="Typing SVG" />
+  <img src="./assets/hero-banner.svg" width="100%" alt="Basit Ali — Full-Stack Software Engineer" />
 </a>
 
-<p>
+<br/>
+
+<!-- Status & Experience Badges -->
+<p align="center">
   <a href="https://github.com/basitaliyousafzai"><img src="https://komarev.com/ghpvc/?username=basitaliyousafzai&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" /></a>
   <a href="https://github.com/basitaliyousafzai?tab=followers"><img src="https://img.shields.io/github/followers/basitaliyousafzai?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="Followers" /></a>
-  <a href="https://www.linkedin.com/in/basit-ali-yousafzai/"><img src="https://img.shields.io/badge/Open%20To%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" /></a>
+  <a href="https://www.linkedin.com/in/basit-ali-yousafzai/"><img src="https://img.shields.io/badge/Status-Open%20To%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" /></a>
   <img src="https://img.shields.io/badge/Experience-2%2B%20Years-8b5cf6?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/Rawalpindi%2C%20PK-ef4444?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Rawalpindi%2C%20PK-ef4444?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
-<!-- Quick navigation -->
-<p>
-  <a href="#about"><img src="https://img.shields.io/badge/About-0f172a?style=flat-square&logo=aboutdotme&logoColor=38bdf8" alt="About" /></a>
-  <a href="#experience"><img src="https://img.shields.io/badge/Experience-0f172a?style=flat-square&logo=briefcase&logoColor=38bdf8" alt="Experience" /></a>
-  <a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-0f172a?style=flat-square&logo=stackshare&logoColor=38bdf8" alt="Tech stack" /></a>
-  <a href="#enterprise"><img src="https://img.shields.io/badge/Enterprise%20Work-0f172a?style=flat-square&logo=databricks&logoColor=38bdf8" alt="Enterprise work" /></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/Projects-0f172a?style=flat-square&logo=github&logoColor=38bdf8" alt="Projects" /></a>
-  <a href="#analytics"><img src="https://img.shields.io/badge/Analytics-0f172a?style=flat-square&logo=googleanalytics&logoColor=38bdf8" alt="Analytics" /></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/Contact-0f172a?style=flat-square&logo=maildotru&logoColor=38bdf8" alt="Contact" /></a>
+<!-- Quick Navigation Bar -->
+<p align="center">
+  <a href="#about"><img src="https://img.shields.io/badge/About%20Me-0f172a?style=flat-square&logo=aboutdotme&logoColor=38bdf8" alt="About" /></a> &bull;
+  <a href="#experience"><img src="https://img.shields.io/badge/Experience-0f172a?style=flat-square&logo=briefcase&logoColor=38bdf8" alt="Experience" /></a> &bull;
+  <a href="#architecture"><img src="https://img.shields.io/badge/Architecture-0f172a?style=flat-square&logo=blueprint&logoColor=38bdf8" alt="Architecture" /></a> &bull;
+  <a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-0f172a?style=flat-square&logo=stackshare&logoColor=38bdf8" alt="Tech stack" /></a> &bull;
+  <a href="#enterprise"><img src="https://img.shields.io/badge/Enterprise%20Work-0f172a?style=flat-square&logo=databricks&logoColor=38bdf8" alt="Enterprise work" /></a> &bull;
+  <a href="#projects"><img src="https://img.shields.io/badge/Open%20Source-0f172a?style=flat-square&logo=github&logoColor=38bdf8" alt="Projects" /></a> &bull;
+  <a href="#analytics"><img src="https://img.shields.io/badge/Analytics-0f172a?style=flat-square&logo=googleanalytics&logoColor=38bdf8" alt="Analytics" /></a> &bull;
+  <a href="#connect"><img src="https://img.shields.io/badge/Connect-0f172a?style=flat-square&logo=maildotru&logoColor=38bdf8" alt="Contact" /></a>
 </p>
 
 </div>
@@ -32,48 +34,53 @@
 
 <!-- ═══════════════════════════════════════ ABOUT ═══════════════════════════════════════ -->
 <h2 id="about">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="wave" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" alt="wave" />
   About Me
 </h2>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-Hello! I'm **Basit Ali**, a **Full-Stack Software Engineer** from Rawalpindi, Pakistan with **2+ years** of professional experience architecting enterprise web systems, high-performance back-ends and responsive user experiences.
+Hello! I'm **Basit Ali**, a dedicated **Full-Stack Software Engineer** based in Rawalpindi, Pakistan with over **2+ years of professional experience** engineering enterprise web solutions, high-throughput backends, and responsive user experiences.
 
 - 💼 **Full-Stack Developer** at **Multi-Tech Solutions**
 - 🏛️ **Full-Stack .NET Consultant** for **HOAP** (Hajj Organizers Association of Pakistan)
-- ⚙️ **Back-end:** ASP.NET Core · C# · Web API · EF Core
-- 🎨 **Front-end:** Angular · TypeScript · RxJS · React
-- 🗄️ **Data:** SQL Server schema design, stored procedures & query tuning
-- 📐 **Principles:** Clean Architecture · SOLID · Repository & UoW · RBAC
+- ⚙️ **Backend Engineering:** ASP.NET Core · C# · RESTful Web APIs · Entity Framework Core
+- 🎨 **Frontend Engineering:** Angular 17+ · TypeScript · RxJS · React · Modern CSS
+- 🗄️ **Database Architecture:** Microsoft SQL Server schema modeling, complex stored procs & query performance tuning
+- 📐 **Software Principles:** Clean Architecture · SOLID · Repository & Unit of Work · Role-Based Access Control (RBAC)
 
 </td>
-<td width="42%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer at work" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer coding animation" />
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>👨‍💻 &nbsp;View me as code</b></summary>
+<summary><b>👨‍💻 &nbsp;View Developer Profile (C# Object Definition)</b></summary>
 <br/>
 
 ```csharp
-public sealed class BasitAli : SoftwareEngineer
-{
-    public string   Location   => "Rawalpindi, Pakistan 🇵🇰";
-    public string   Role       => "Full-Stack Software Engineer";
-    public string[] Backend    => ["C#", "ASP.NET Core", "Web API", "EF Core"];
-    public string[] Frontend   => ["Angular", "TypeScript", "RxJS", "React"];
-    public string[] Databases  => ["SQL Server", "PostgreSQL", "MySQL", "Redis"];
-    public string[] Principles => ["Clean Architecture", "SOLID", "RBAC", "DDD"];
+namespace Portfolio.BasitAli;
 
-    public string CurrentFocus => "Scalable ERP, WMS & cloud-ready APIs";
-    public string Motto        => "Engineer resilient solutions, not just code.";
+public sealed record EngineerProfile : SoftwareEngineer
+{
+    public string   FullName       { get; init; } = "Basit Ali";
+    public string   Location       { get; init; } = "Rawalpindi, Pakistan 🇵🇰";
+    public string   CurrentRole    { get; init; } = "Full-Stack Software Engineer";
+    public string   Experience     { get; init; } = "2+ Years Enterprise Delivery";
+
+    public string[] Backend        { get; init; } = ["C#", "ASP.NET Core", "Web API", "EF Core", "LINQ"];
+    public string[] Frontend       { get; init; } = ["Angular", "TypeScript", "RxJS", "React", "TailwindCSS"];
+    public string[] Databases      { get; init; } = ["SQL Server", "PostgreSQL", "MySQL", "Redis"];
+    public string[] Architecture   { get; init; } = ["Clean Architecture", "SOLID", "RBAC", "Repository Pattern"];
+
+    public string   Specialization { get; init; } = "Supply Chain WMS, Retail ERPs, Healthcare & FinTech Portals";
+    public string   Motto          { get; init; } = "Engineering resilient, high-performance systems that empower businesses.";
 }
 ```
 
@@ -81,53 +88,82 @@ public sealed class BasitAli : SoftwareEngineer
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-<!-- ═══════════════════════════════════════ EXPERIENCE ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════ ARCHITECTURAL PILLARS ═══════════════════════════════════════ -->
+<h2 id="architecture">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" alt="gear" />
+  Core Engineering Pillars
+</h2>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+<h4>🏗️ Clean Architecture</h4>
+<p>Strict separation of concerns across Domain, Application, Infrastructure, and Presentation layers for maintainable enterprise systems.</p>
+</td>
+<td width="25%" valign="top">
+<h4>⚡ High-Throughput SQL</h4>
+<p>Execution plan analysis, index optimization, deadlock reduction, and tuned stored procedures in Microsoft SQL Server.</p>
+</td>
+<td width="25%" valign="top">
+<h4>🛡️ RBAC &amp; Security</h4>
+<p>Granular Role-Based Access Control, JWT authentication tokens, audit logging, and data-integrity protection pipelines.</p>
+</td>
+<td width="25%" valign="top">
+<h4>📦 Enterprise Logistics</h4>
+<p>Deep domain expertise in Warehouse Management Systems (WMS), point-of-sale (POS), and automated inventory reconciliation.</p>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+<!-- ═══════════════════════════════════════ WORK EXPERIENCE ═══════════════════════════════════════ -->
 <h2 id="experience">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="32" alt="briefcase" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30" alt="briefcase" />
   Work Experience
 </h2>
 
 <table>
 <tr>
-<td width="140" align="center" valign="top">
+<td width="150" align="center" valign="top">
 <img src="https://img.shields.io/badge/Aug%202023-Present-0ea5e9?style=flat-square" alt="Aug 2023 – Present" /><br/>
-<sub>🟢 Current</sub>
+<sub>🟢 <b>Current Role</b></sub>
 </td>
 <td valign="top">
 
 ### Full-Stack Developer · [Multi-Tech Solutions](https://www.linkedin.com/company/multi-tech-solutions/)
 
-- Architect and maintain enterprise web apps, **warehouse logistics (WMS)** and **retail e-commerce** platforms.
-- Design database architectures and write performance-critical **SQL Server** stored procedures.
-- Build reactive, modular dashboards with **Angular**, **TypeScript** and modern CSS.
+- Architect and maintain enterprise-grade web applications, **warehouse logistics (WMS)**, and **retail e-commerce** platforms.
+- Design database architectures and write performance-critical **Microsoft SQL Server** stored procedures handling high transactional loads.
+- Build reactive, modular client dashboards using **Angular**, **TypeScript**, RxJS, and modern responsive CSS frameworks.
 
 </td>
 </tr>
 <tr>
-<td width="140" align="center" valign="top">
+<td width="150" align="center" valign="top">
 <img src="https://img.shields.io/badge/Oct%202024-Present-8b5cf6?style=flat-square" alt="Oct 2024 – Present" /><br/>
-<sub>🟣 Consulting</sub>
+<sub>🟣 <b>Consulting</b></sub>
 </td>
 <td valign="top">
 
-### Full-Stack .NET Developer · [HOAP](https://www.hoap.org.pk)
+### Full-Stack .NET Developer · [HOAP](https://www.hoap.org.pk) *(Hajj Organizers Association of Pakistan)*
 
-- Core management modules for member organizations, pilgrimage quota tracking and audit workflows.
-- Strict **Role-Based Access Control** and optimised LINQ / EF Core data access.
+- Lead development of member management modules, pilgrimage quota tracking, and audit approval workflows.
+- Implemented strict **Role-Based Access Control (RBAC)** and optimized LINQ / Entity Framework Core data queries.
 
 </td>
 </tr>
 <tr>
-<td width="140" align="center" valign="top">
+<td width="150" align="center" valign="top">
 <img src="https://img.shields.io/badge/Jan%202023-Jul%202023-64748b?style=flat-square" alt="Jan 2023 – Jul 2023" /><br/>
-<sub>⚪ Previous</sub>
+<sub>⚪ <b>Previous</b></sub>
 </td>
 <td valign="top">
 
 ### Junior .NET Developer · Dev For Health SMC (Pvt) Ltd
 
-- Healthcare software & clinical workflows with **C#**, **WinForms**, **ASP.NET WebForms** and **SQL Server**.
-- Built diagnostic report generators, role-security enhancements and prescription modules.
+- Developed healthcare software and clinical workflows utilizing **C#**, **Windows Forms**, **ASP.NET WebForms**, and **SQL Server**.
+- Implemented automated diagnostic report generators, role security enhancements, and prescription record tracking modules.
 
 </td>
 </tr>
@@ -137,68 +173,83 @@ public sealed class BasitAli : SoftwareEngineer
 
 <!-- ═══════════════════════════════════════ TECH STACK ═══════════════════════════════════════ -->
 <h2 id="stack">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" alt="tools" />
-  Tech Stack
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" alt="tools" />
+  Tech Stack &amp; Skills
 </h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%"><b>⚙️ Back-end</b><br/><br/><img src="https://skillicons.dev/icons?i=cs,dotnet&perline=2" alt="Backend" /></td>
-<td align="center" width="25%"><b>🎨 Front-end</b><br/><br/><img src="https://skillicons.dev/icons?i=angular,react,ts,js&perline=4" alt="Frontend" /></td>
-<td align="center" width="25%"><b>🗄️ Databases</b><br/><br/><img src="https://skillicons.dev/icons?i=mssql,postgres,mysql,mongodb,redis&perline=5" alt="Databases" /></td>
-<td align="center" width="25%"><b>🧰 Tools & DevOps</b><br/><br/><img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode&perline=5" alt="Tools" /></td>
+<td align="center" width="25%">
+<b>⚙️ Backend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet&perline=2" alt="Backend Stack" />
+</td>
+<td align="center" width="25%">
+<b>🎨 Frontend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js&perline=4" alt="Frontend Stack" />
+</td>
+<td align="center" width="25%">
+<b>🗄️ Databases</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=mssql,postgres,mysql,mongodb,redis&perline=5" alt="Database Stack" />
+</td>
+<td align="center" width="25%">
+<b>🧰 Tools &amp; DevOps</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode&perline=5" alt="Tools and DevOps" />
+</td>
 </tr>
 <tr>
-<td align="center" colspan="4"><b>💅 Styling</b> &nbsp; <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass" alt="Styling" /></td>
+<td align="center" colspan="4">
+<b>💅 Styling &amp; UI Frameworks:</b> &nbsp;
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass" alt="Styling Stack" />
+</td>
 </tr>
 </table>
 
 </div>
 
 <details>
-<summary><b>🏷️ &nbsp;Detailed skill breakdown</b></summary>
+<summary><b>🏷️ &nbsp;Comprehensive Technology &amp; Tool Badges</b></summary>
 <br/>
 
-| Area | Technologies |
+| Domain | Technologies &amp; Frameworks |
 | :--- | :--- |
-| **Back-end & APIs** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens) ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| **Front-end** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Backend &amp; APIs** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![JWT Auth](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens) ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
 | **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| **Architecture** | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0f172a?style=flat-square) ![SOLID](https://img.shields.io/badge/SOLID-0f172a?style=flat-square) ![Repository + UoW](https://img.shields.io/badge/Repository_%2B_UoW-0f172a?style=flat-square) ![RBAC](https://img.shields.io/badge/RBAC-0f172a?style=flat-square) ![CQRS](https://img.shields.io/badge/CQRS-0f172a?style=flat-square) |
+| **Tools &amp; DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **Patterns &amp; Architecture** | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0f172a?style=flat-square) ![SOLID](https://img.shields.io/badge/SOLID-0f172a?style=flat-square) ![Repository + UoW](https://img.shields.io/badge/Repository_%2B_UoW-0f172a?style=flat-square) ![RBAC](https://img.shields.io/badge/RBAC-0f172a?style=flat-square) ![CQRS](https://img.shields.io/badge/CQRS-0f172a?style=flat-square) |
 
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-<!-- ═══════════════════════════════════════ ENTERPRISE ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════ ENTERPRISE WORK ═══════════════════════════════════════ -->
 <h2 id="enterprise">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="32" alt="building" />
-  Commercial & Enterprise Projects
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="30" alt="building" />
+  Commercial &amp; Enterprise Projects
 </h2>
 
-<p><i>Production systems delivered for real clients — live and in daily use.</i></p>
+<p><i>Production solutions engineered for enterprise clients &mdash; live and actively serving operations:</i></p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🕋 <a href="https://www.hoap.org.pk">HOAP Platform</a></h3>
-      <p><b>Role:</b> Full-Stack .NET Developer &nbsp;·&nbsp; <b>Client:</b> Hajj Organizers Association of Pakistan</p>
+      <p><b>Role:</b> Full-Stack .NET Developer &nbsp;&bull;&nbsp; <b>Client:</b> Hajj Organizers Association of Pakistan</p>
       <ul>
-        <li>Member organisation management, pilgrimage quota tracking and audit workflows.</li>
-        <li>Strict RBAC and optimised LINQ / EF Core data access.</li>
+        <li>Core management modules for member organizations, pilgrimage quota tracking, and audit workflows.</li>
+        <li>Implemented strict Role-Based Access Control (RBAC) and optimized LINQ / EF Core data access.</li>
       </ul>
       <p><code>ASP.NET MVC</code> <code>C#</code> <code>Entity Framework</code> <code>SQL Server</code></p>
       <a href="https://www.hoap.org.pk"><img src="https://img.shields.io/badge/Visit_Live-hoap.org.pk-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit HOAP" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 <a href="https://hbwh.dwatson.co">HBWH Dwatson — WMS</a></h3>
-      <p><b>Role:</b> Back-end Developer &nbsp;·&nbsp; <b>Company:</b> Multi-Tech Solutions</p>
+      <h3>📦 <a href="https://hbwh.dwatson.co">HBWH Dwatson &mdash; WMS</a></h3>
+      <p><b>Role:</b> Backend Developer &nbsp;&bull;&nbsp; <b>Company:</b> Multi-Tech Solutions</p>
       <ul>
-        <li>Warehouse automation with real-time inventory, dispatching and rack assignment.</li>
-        <li>Sub-second barcode scan processing and automated audit reconciliation.</li>
+        <li>Warehouse automation platform managing real-time inventory tracking, dispatching, and rack assignments.</li>
+        <li>Sub-second barcode scan processing and automated audit reconciliation routines.</li>
       </ul>
       <p><code>ASP.NET Core</code> <code>C#</code> <code>SQL Server</code> <code>JavaScript</code></p>
       <a href="https://hbwh.dwatson.co"><img src="https://img.shields.io/badge/Visit_Live-hbwh.dwatson.co-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit HBWH" /></a>
@@ -207,20 +258,20 @@ public sealed class BasitAli : SoftwareEngineer
   <tr>
     <td width="50%" valign="top">
       <h3>🛒 <a href="https://dwatson.co">Dwatson.co E-Commerce</a></h3>
-      <p><b>Role:</b> Full-Stack Developer &nbsp;·&nbsp; <b>Company:</b> Multi-Tech Solutions</p>
+      <p><b>Role:</b> Full-Stack Developer &nbsp;&bull;&nbsp; <b>Company:</b> Multi-Tech Solutions</p>
       <ul>
-        <li>Large-scale pharmacy & consumer store with thousands of SKUs and dynamic filters.</li>
-        <li>Checkout pipelines, customer accounts and admin inventory controls.</li>
+        <li>Large-scale retail pharmacy and consumer store catalog with thousands of SKUs and dynamic filters.</li>
+        <li>Engineered cart checkout pipelines, customer accounts, and administrative inventory controls.</li>
       </ul>
       <p><code>ASP.NET MVC</code> <code>C#</code> <code>SQL Server</code> <code>CSS3</code></p>
       <a href="https://dwatson.co"><img src="https://img.shields.io/badge/Visit_Live-dwatson.co-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Dwatson" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🍽️ <a href="https://bk.mtsapp.net">ButtKarahi POS Admin</a></h3>
-      <p><b>Role:</b> Full-Stack Developer &nbsp;·&nbsp; <b>Company:</b> Multi-Tech Solutions</p>
+      <p><b>Role:</b> Full-Stack Developer &nbsp;&bull;&nbsp; <b>Company:</b> Multi-Tech Solutions</p>
       <ul>
-        <li>Real-time restaurant operations: kitchen tickets (KOT), tables and billing.</li>
-        <li>Eliminated manual cashier errors through automated price calculation.</li>
+        <li>Real-time restaurant operations system coordinating kitchen tickets (KOT), table orders, and billing.</li>
+        <li>Eliminated cashier manual entry errors through automated price calculations.</li>
       </ul>
       <p><code>ASP.NET MVC</code> <code>C#</code> <code>SQL Server</code> <code>Bootstrap</code></p>
       <a href="https://bk.mtsapp.net"><img src="https://img.shields.io/badge/Visit_Live-bk.mtsapp.net-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit ButtKarahi POS" /></a>
@@ -229,27 +280,27 @@ public sealed class BasitAli : SoftwareEngineer
 </table>
 
 <details>
-<summary><b>➕ &nbsp;More client websites</b></summary>
+<summary><b>➕ &nbsp;Additional Commercial Deployments</b></summary>
 <br/>
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 🏭 **Margalla Packages Industry** | Industrial manufacturing site with product showcase, inquiries & quote estimates. | `ASP.NET MVC` `SQL Server` | [![Live](https://img.shields.io/badge/Live-0284c7?style=flat-square&logo=googlechrome&logoColor=white)](https://www.margallapackagesindustry.com) |
-| 🏭 **Nadeem Plastic & Nadir Brothers** | Corporate product catalogues and B2B communication portals. | `ASP.NET MVC` `C#` `Bootstrap` | [![Live](https://img.shields.io/badge/Live-0284c7?style=flat-square&logo=googlechrome&logoColor=white)](https://nadeemplastic.com) |
+| 🏭 **Margalla Packages Industry** | Corporate industrial manufacturing site with product showcase, inquiries & quote estimates. | `ASP.NET MVC` `SQL Server` | [![Live](https://img.shields.io/badge/Visit_Live-0284c7?style=flat-square&logo=googlechrome&logoColor=white)](https://www.margallapackagesindustry.com) |
+| 🏭 **Nadeem Plastic &amp; Nadir Brothers** | Corporate product catalogues and B2B communication portals for manufacturing companies. | `ASP.NET MVC` `C#` `Bootstrap` | [![Live](https://img.shields.io/badge/Visit_Live-0284c7?style=flat-square&logo=googlechrome&logoColor=white)](https://nadeemplastic.com) |
 
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-<!-- ═══════════════════════════════════════ OPEN-SOURCE (AUTO) ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════ OPEN SOURCE (AUTO-SYNCED) ═══════════════════════════════════════ -->
 <h2 id="projects">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" alt="rocket" />
-  Open-Source Projects
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" alt="rocket" />
+  Open-Source &amp; Featured Repositories
 </h2>
 
 <p>
   <img src="https://img.shields.io/badge/Auto--synced-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Auto-synced" />
-  &nbsp;<i>This section updates itself every 6 hours — new public repos appear here automatically.</i>
+  &nbsp;<i>Automatically synchronized with GitHub API &mdash; new public repositories appear here automatically:</i>
 </p>
 
 <!-- PROJECTS:START -->
@@ -344,19 +395,20 @@ public sealed class BasitAli : SoftwareEngineer
 <!-- PROJECTS:END -->
 
 <p align="center">
-  <a href="https://github.com/basitaliyousafzai?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-→-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
+  <a href="https://github.com/basitaliyousafzai?tab=repositories"><img src="https://img.shields.io/badge/Browse_All_Repositories-→-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-<!-- ═══════════════════════════════════════ ANALYTICS ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════ GITHUB ANALYTICS ═══════════════════════════════════════ -->
 <h2 id="analytics">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="32" alt="chart" />
-  GitHub Analytics
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" alt="chart" />
+  GitHub Analytics &amp; Activity
 </h2>
 
 <div align="center">
 
+<!-- Self-Hosted Profile Summary Card -->
 <img src="./assets/github-summary.svg" width="100%" alt="GitHub profile summary" />
 
 <br/><br/>
@@ -369,6 +421,7 @@ public sealed class BasitAli : SoftwareEngineer
 </a>
 </td>
 <td width="50%" align="center" valign="middle">
+<!-- Self-Hosted Top Languages Breakdown -->
 <img src="./assets/top-languages.svg" width="100%" alt="Most used languages" />
 </td>
 </tr>
@@ -376,6 +429,7 @@ public sealed class BasitAli : SoftwareEngineer
 
 <br/>
 
+<!-- Real-Time Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/basitaliyousafzai/basitaliyousafzai/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/basitaliyousafzai/basitaliyousafzai/output/github-snake.svg" />
@@ -386,28 +440,28 @@ public sealed class BasitAli : SoftwareEngineer
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-<!-- ═══════════════════════════════════════ WHAT I BRING ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════ VALUE PROPOSITION ═══════════════════════════════════════ -->
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="32" alt="idea" />
-  What I Bring
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" alt="idea" />
+  What I Deliver to Teams &amp; Clients
 </h2>
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="48" alt="gear" /><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="46" alt="gear" /><br/>
 <b>Scalable Architecture</b><br/>
-<sub>Clean, layered .NET solutions that grow with the business.</sub>
+<sub>Clean, modular .NET backends engineered to scale gracefully as business demands increase.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="48" alt="speed" /><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="46" alt="speed" /><br/>
 <b>Performance First</b><br/>
-<sub>Tuned SQL, indexed queries and sub-second workflows.</sub>
+<sub>Tuned SQL Server stored procedures, optimal indexes, and low-latency API response times.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="48" alt="sparkles" /><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="46" alt="sparkles" /><br/>
 <b>Polished UX</b><br/>
-<sub>Reactive Angular dashboards that users actually enjoy.</sub>
+<sub>Reactive Angular dashboards with intuitive workflows that users love to navigate.</sub>
 </td>
 </tr>
 </table>
@@ -416,27 +470,30 @@ public sealed class BasitAli : SoftwareEngineer
 
 <!-- ═══════════════════════════════════════ CONNECT ═══════════════════════════════════════ -->
 <h2 id="connect">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32" alt="handshake" />
-  Let's Connect
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" alt="handshake" />
+  Let's Connect &amp; Collaborate
 </h2>
 
 <div align="center">
 
-<p><i>Always open to new opportunities, enterprise consulting and ambitious engineering projects.</i></p>
+<p><i>Always open to discussing new opportunities, enterprise consulting, and innovative software engineering projects.</i></p>
 
-<p>
-  <a href="https://www.linkedin.com/in/basit-ali-yousafzai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:basitaliyousafzai786@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://basitali-one.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/basitaliyousafzai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/basit-ali-yousafzai/"><img src="https://img.shields.io/badge/LinkedIn-Basit%20Ali%20Yousafzai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:basitaliyousafzai786@gmail.com"><img src="https://img.shields.io/badge/Email-basitaliyousafzai786%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://basitali-one.vercel.app"><img src="https://img.shields.io/badge/Portfolio-basitali--one.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/basitaliyousafzai"><img src="https://img.shields.io/badge/GitHub-@basitaliyousafzai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=760&lines=%22Software+engineering+is+not+just+writing+code+%E2%80%94;it%27s+engineering+resilient+solutions+that+empower+people.%22" alt="Quote" />
+<blockquote>
+<i>"Software engineering is not just about writing code &mdash; it's about engineering resilient solutions that empower organizations and people."</i>
+</blockquote>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,30:0ea5e9,65:1d4ed8,100:0f172a&height=130&section=footer" width="100%" alt="Footer wave" />
+<!-- Self-Hosted Footer Wave Banner -->
+<img src="./assets/footer-wave.svg" width="100%" alt="Footer wave banner" />
 
 </div>
