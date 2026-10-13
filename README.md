@@ -30,17 +30,13 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ═══════════════════════════════════════ ABOUT ═══════════════════════════════════════ -->
 <h2 id="about">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" alt="wave" />
   About Me
 </h2>
-
-<table>
-<tr>
-<td width="60%" valign="top">
 
 Hello! I'm **Basit Ali**, a dedicated **Full-Stack Software Engineer** based in Rawalpindi, Pakistan with over **2+ years of professional experience** engineering enterprise web solutions, high-throughput backends, and responsive user experiences.
 
@@ -50,15 +46,6 @@ Hello! I'm **Basit Ali**, a dedicated **Full-Stack Software Engineer** based in 
 - 🎨 **Frontend Engineering:** Angular 17+ · TypeScript · RxJS · React · Modern CSS
 - 🗄️ **Database Architecture:** Microsoft SQL Server schema modeling, complex stored procs & query performance tuning
 - 📐 **Software Principles:** Clean Architecture · SOLID · Repository & Unit of Work · Role-Based Access Control (RBAC)
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer coding animation" />
-
-</td>
-</tr>
-</table>
 
 <details>
 <summary><b>👨‍💻 &nbsp;View Developer Profile (C# Object Definition)</b></summary>
@@ -86,7 +73,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ═══════════════════════════════════════ ARCHITECTURAL PILLARS ═══════════════════════════════════════ -->
 <h2 id="architecture">
@@ -115,7 +102,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ═══════════════════════════════════════ WORK EXPERIENCE ═══════════════════════════════════════ -->
 <h2 id="experience">
@@ -169,7 +156,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ═══════════════════════════════════════ TECH STACK ═══════════════════════════════════════ -->
 <h2 id="stack">
@@ -222,7 +209,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ═══════════════════════════════════════ ENTERPRISE WORK ═══════════════════════════════════════ -->
 <h2 id="enterprise">
@@ -290,7 +277,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ═══════════════════════════════════════ OPEN SOURCE (AUTO-SYNCED) ═══════════════════════════════════════ -->
 <h2 id="projects">
@@ -387,7 +374,7 @@ public sealed record EngineerProfile : SoftwareEngineer
   <a href="https://github.com/basitaliyousafzai?tab=repositories"><img src="https://img.shields.io/badge/Browse_All_Repositories-→-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ═══════════════════════════════════════ GITHUB ANALYTICS ═══════════════════════════════════════ -->
 <h2 id="analytics">
@@ -427,7 +414,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ═══════════════════════════════════════ VALUE PROPOSITION ═══════════════════════════════════════ -->
 <h2>
@@ -455,7 +442,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ═══════════════════════════════════════ CONNECT ═══════════════════════════════════════ -->
 <h2 id="connect">
