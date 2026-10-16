@@ -327,12 +327,20 @@ public sealed record EngineerProfile : SoftwareEngineer
 </tr>
 <tr>
 <td width="50%" valign="top">
+<h3>💠 <a href="https://github.com/basitaliyousafzai/OmniAgent">Omni Agent</a></h3>
+<p>Omni Agent — a high-performance Python application engineered by Basit Ali.</p>
+<p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-0-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Oct%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
+<a href="https://github.com/basitaliyousafzai/OmniAgent"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
+</td>
+<td width="50%" valign="top">
 <h3>🦷 <a href="https://github.com/basitaliyousafzai/Dental">Dental Clinic Portal</a></h3>
 <p>Healthcare dental practice management portal for patient appointments, treatment tracking, and dentist schedules.</p>
 <p><code>healthcare</code> <code>dental-portal</code> <code>javascript</code> <code>clinic-system</code></p>
 <p><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Jul%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
 <a href="https://github.com/basitaliyousafzai/Dental"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>💻 <a href="https://github.com/basitaliyousafzai/Portfolio">Developer Showcase Portfolio</a></h3>
 <p>Responsive personal engineering showcase exhibiting software engineering capabilities, frontend components, and UI layouts.</p>
@@ -340,8 +348,6 @@ public sealed record EngineerProfile : SoftwareEngineer
 <p><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Jul%202025-0ea5e9?style=flat-square" alt="Last updated" /></p>
 <a href="https://github.com/basitaliyousafzai/Portfolio"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3>🏥 <a href="https://github.com/basitaliyousafzai/clinicsync">ClinicSync Management Suite</a></h3>
 <p>Comprehensive clinic management system managing patient health records, appointment bookings, and physician schedules.</p>
@@ -349,6 +355,8 @@ public sealed record EngineerProfile : SoftwareEngineer
 <p><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Forks-1-8b5cf6?style=flat-square&logo=git&logoColor=white" alt="Forks" /> <img src="https://img.shields.io/badge/Updated-Jul%202025-0ea5e9?style=flat-square" alt="Last updated" /></p>
 <a href="https://github.com/basitaliyousafzai/clinicsync"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>📋 <a href="https://github.com/basitaliyousafzai/ProManagementSystem">Pro Management System</a></h3>
 <p>Enterprise multi-role organization and workflow management portal featuring administrative dashboards and team coordination.</p>
@@ -356,8 +364,6 @@ public sealed record EngineerProfile : SoftwareEngineer
 <p><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Jul%202025-0ea5e9?style=flat-square" alt="Last updated" /></p>
 <a href="https://github.com/basitaliyousafzai/ProManagementSystem"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3>✨ <a href="https://github.com/basitaliyousafzai/BasitAliPortfolio">Basit Ali Portfolio Site</a></h3>
 <p>Personal branding and web portfolio highlighting full-stack .NET and Angular engineering competencies.</p>
@@ -365,7 +371,6 @@ public sealed record EngineerProfile : SoftwareEngineer
 <p><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Jul%202025-0ea5e9?style=flat-square" alt="Last updated" /></p>
 <a href="https://github.com/basitaliyousafzai/BasitAliPortfolio"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 <!-- PROJECTS:END -->
