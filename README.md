@@ -321,7 +321,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 <h3>🌐 <a href="https://github.com/basitaliyousafzai/Protfolio">Portfolio Web Application</a></h3>
 <p>Interactive developer portfolio web app showcasing full-stack enterprise projects, skill stack, and commercial solutions.</p>
 <p><code>portfolio</code> <code>javascript</code> <code>html5</code> <code>css3</code> <code>vercel</code></p>
-<p><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Forks-1-8b5cf6?style=flat-square&logo=git&logoColor=white" alt="Forks" /> <img src="https://img.shields.io/badge/Updated-Sep%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
+<p><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Forks-1-8b5cf6?style=flat-square&logo=git&logoColor=white" alt="Forks" /> <img src="https://img.shields.io/badge/Updated-Oct%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
 <a href="https://github.com/basitaliyousafzai/Protfolio"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a> <a href="https://basitali-one.vercel.app"><img src="https://img.shields.io/badge/-Live%20Demo-22c55e?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
 </td>
 </tr>
