@@ -327,16 +327,16 @@ public sealed record EngineerProfile : SoftwareEngineer
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>💠 <a href="https://github.com/basitaliyousafzai/DataBaseComparer">Data Base Comparer</a></h3>
-<p>Data Base Comparer — a high-performance C# application engineered by Basit Ali.</p>
-<p><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-0-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Oct%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
-<a href="https://github.com/basitaliyousafzai/DataBaseComparer"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
-</td>
-<td width="50%" valign="top">
 <h3>💠 <a href="https://github.com/basitaliyousafzai/OmniAgent">Omni Agent</a></h3>
 <p>Omni Agent — a high-performance Python application engineered by Basit Ali.</p>
 <p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-0-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Oct%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
 <a href="https://github.com/basitaliyousafzai/OmniAgent"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>💠 <a href="https://github.com/basitaliyousafzai/DataBaseComparer">Data Base Comparer</a></h3>
+<p>Data Base Comparer — a high-performance C# application engineered by Basit Ali.</p>
+<p><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-0-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Oct%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
+<a href="https://github.com/basitaliyousafzai/DataBaseComparer"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
 </td>
 </tr>
 <tr>
