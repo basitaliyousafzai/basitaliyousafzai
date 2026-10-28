@@ -40,7 +40,7 @@
   
     <g transform="translate(560,72)"><g class="tile" style="animation-delay:0.35s">
       <rect width="136" height="118" rx="16" fill="#ffffff" fill-opacity=".07" stroke="#7dd3fc" stroke-opacity=".25"/>
-      <text x="68" y="44" fill="#7dd3fc" font-size="30" font-weight="700">10</text>
+      <text x="68" y="44" fill="#7dd3fc" font-size="30" font-weight="700">11</text>
       <text x="68" y="72" fill="#e2e8f0" font-size="14">Repositories</text>
       <text x="68" y="94" fill="#94a3b8" font-size="12">public projects</text>
     </g></g>
@@ -58,7 +58,7 @@
     </g></g>
     <g transform="translate(1016,72)"><g class="tile" style="animation-delay:0.80s">
       <rect width="136" height="118" rx="16" fill="#ffffff" fill-opacity=".07" stroke="#fcd34d" stroke-opacity=".25"/>
-      <text x="68" y="44" fill="#fcd34d" font-size="30" font-weight="700">5</text>
+      <text x="68" y="44" fill="#fcd34d" font-size="30" font-weight="700">6</text>
       <text x="68" y="72" fill="#e2e8f0" font-size="14">Languages</text>
       <text x="68" y="94" fill="#94a3b8" font-size="12">in production</text>
     </g></g>
