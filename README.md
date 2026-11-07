@@ -329,7 +329,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 <td width="50%" valign="top">
 <h3>💠 <a href="https://github.com/basitaliyousafzai/Khushbooo">Khushbooo</a></h3>
 <p>Khushbooo — a high-performance TypeScript application engineered by Basit Ali.</p>
-<p><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-0-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Oct%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
+<p><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-0-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Nov%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
 <a href="https://github.com/basitaliyousafzai/Khushbooo"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
 </td>
 <td width="50%" valign="top">
