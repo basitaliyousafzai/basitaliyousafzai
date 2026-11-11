@@ -330,7 +330,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 <h3>💠 <a href="https://github.com/basitaliyousafzai/UshoqUlQuranAcademy">Ushoq Ul Quran Academy</a></h3>
 <p>Ushoq Ul Quran Academy — a high-performance HTML application engineered by Basit Ali.</p>
 <p><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-0-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Nov%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
-<a href="https://github.com/basitaliyousafzai/UshoqUlQuranAcademy"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
+<a href="https://github.com/basitaliyousafzai/UshoqUlQuranAcademy"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a> <a href="https://ushaqulquranacademy.vercel.app"><img src="https://img.shields.io/badge/-Live%20Demo-22c55e?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
 </td>
 <td width="50%" valign="top">
 <h3>💠 <a href="https://github.com/basitaliyousafzai/Khushbooo">Khushbooo</a></h3>
