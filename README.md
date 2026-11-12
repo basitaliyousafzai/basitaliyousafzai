@@ -314,7 +314,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 <h3>📥 <a href="https://github.com/basitaliyousafzai/OmniDownloader">Omni Downloader</a></h3>
 <p>High-speed multi-resource downloader utility designed for stream handling, batch jobs, and effortless media downloads.</p>
 <p><code>javascript</code> <code>downloader</code> <code>utilities</code> <code>automation</code></p>
-<p><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Oct%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
+<p><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-2-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Oct%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
 <a href="https://github.com/basitaliyousafzai/OmniDownloader"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
 </td>
 <td width="50%" valign="top">
@@ -329,7 +329,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 <td width="50%" valign="top">
 <h3>💠 <a href="https://github.com/basitaliyousafzai/UshoqUlQuranAcademy">Ushoq Ul Quran Academy</a></h3>
 <p>Ushoq Ul Quran Academy — a high-performance HTML application engineered by Basit Ali.</p>
-<p><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-0-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Updated-Nov%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
+<p><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/%E2%98%85%20Stars-1-f59e0b?style=flat-square" alt="Stars" /> <img src="https://img.shields.io/badge/Forks-1-8b5cf6?style=flat-square&logo=git&logoColor=white" alt="Forks" /> <img src="https://img.shields.io/badge/Updated-Nov%202026-0ea5e9?style=flat-square" alt="Last updated" /></p>
 <a href="https://github.com/basitaliyousafzai/UshoqUlQuranAcademy"><img src="https://img.shields.io/badge/-View%20Code-1e293b?style=flat-square&logo=github&logoColor=white" alt="View code" /></a> <a href="https://ushaqulquranacademy.vercel.app"><img src="https://img.shields.io/badge/-Live%20Demo-22c55e?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
 </td>
 <td width="50%" valign="top">
